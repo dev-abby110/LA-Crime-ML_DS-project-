@@ -1,4 +1,4 @@
-# Los Angeles Crime Analysis (2020–present)
+# Los Angeles Crime Analysis (2020–2024)
 
 Comprehensive exploratory data analysis (EDA), clustering, and machine learning experiments on the Los Angeles crime dataset (2020–present). This repository contains data-cleaning notebooks, visual EDA, clustering experiments (K-Means vs DBSCAN), deep learning (ANN & LSTM) experiments, and several classical ML model comparisons.
 
@@ -246,5 +246,6 @@ If you'd like, I can:
 - Create a `requirements.txt` filled from notebooks' imports.
 - Produce a small `sample_crime_data.csv` (1000 rows) so the notebooks can run in CI/tests.
 - Extract the cleaning pipeline into a reusable script and add basic unit tests.
+
 
 Tell me which of those you'd like me to do next and I'll implement it.
