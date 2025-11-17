@@ -47,6 +47,7 @@ Note: Filenames may contain spaces. For reproducibility, reference them using qu
 ## Data — source & notes
 
 Source / Dataset used in notebooks:
+https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data   
 - Kaggle dataset (referenced in notebooks): `shubhamgupta012/crime-data-from-2020-to-present` (notebooks use a `kagglehub` helper to download; you can instead use the official Kaggle CLI/API).
 
 Key columns (examples used across notebooks):
@@ -253,4 +254,5 @@ If you'd like, I can:
 
 
 Tell me which of those you'd like me to do next and I'll implement it.
+
 
